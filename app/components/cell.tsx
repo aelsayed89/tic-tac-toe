@@ -1,6 +1,8 @@
 "use client"
 import { Dispatch, SetStateAction } from "react";
 
+
+
 type cellProps = {
     id: number;
     go :  string;
